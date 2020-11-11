@@ -1,1 +1,1 @@
-allow: googlebot
+allow: yandexbot
